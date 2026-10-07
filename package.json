@@ -1,0 +1,1 @@
+{"name":"civicpulse-webnova","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"node scripts/dev.mjs","build":"node scripts/build.mjs","validate":"node scripts/validate-artifact.mjs","test":"node scripts/test.mjs"}}
